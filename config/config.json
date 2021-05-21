@@ -1,0 +1,6 @@
+{
+    "prefix": "!sg ",
+    "token": "NzEwODAzMjMxMjE4ODYwMTAz.Xr510w.wlE5kWB3i-qG3n0MNuCLgRa9n3M",
+    "channel": "710851819311464510",
+    "mongoURI": "mongodb+srv://dbUser:pd6bSJaMqaBMA4ED@cluster0-uyhhz.mongodb.net/test?retryWrites=true&w=majority"
+}
